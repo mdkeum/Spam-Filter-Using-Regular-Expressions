@@ -111,5 +111,4 @@ Thumbs.db        # Windows
 *.bak
 *.tmp
 
-
-
+This .gitignore will ensure that unnecessary files, such as IDE settings, OS-specific files, and logs, are not tracked by Git.
