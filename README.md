@@ -11,6 +11,12 @@ This project helps demonstrate the power of regular expressions in text processi
 - **Interactive Interface**: Provides a simple user interface where users can input text to be checked for spam.
 - **Regex-Based Filtering**: Utilizes regular expressions for pattern matching to detect suspicious content.
 
+## Preview
+![Spam-Filter-Screenshot](https://github.com/mdkeum/Spam-Filter-Using-Regular-Expressions/blob/main/images/Spam-Filter-Demo-Image.JPG)
+
+## Project Demo
+   [View Demo](https://mdkeum.github.io/Spam-Filter-Using-Regular-Expressions/)
+
 ## Technologies Used
 
 - **HTML**: Structure of the webpage and form elements.
@@ -27,11 +33,11 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/your-username/spam-filter-regex.git
+   git clone https://https://github.com/mdkeum/Spam-Filter-Using-Regular-Expressions.git
    ```
 2. **Navigate to the project folder**:
    ```
-   cd spam-filter-regex
+   cd Spam-Filter-Using-Regular-Expressions
    ```
 3. **Open the index.html file in your browser**:
    Open the index.html file directly in your web browser. The spam filter form will be displayed.
